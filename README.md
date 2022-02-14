@@ -1,5 +1,5 @@
 # todo
 
-Issues: TaskDB, and TaskDAO files are not working together.
-
-Error: "'TasksDB.this' cannot be referenced from a static context"
+Issues:  
+Exercise: Application Specific Storage exercise 
+-Cannot see the 'myFile.txt' document in the data folder.
