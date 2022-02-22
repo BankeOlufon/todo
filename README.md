@@ -1,5 +1,5 @@
 # todo
 
 Issues:  
-Exercise: Application Specific Storage exercise 
--Cannot see the 'myFile.txt' document in the data folder.
+Exercise: Worksheet 5 (Media and Images)
+-Camera button not linking, ImageView not visible.
